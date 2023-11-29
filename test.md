@@ -1,5 +1,7 @@
 ---
-logo: /assets/img/logo.png
+title: Minimal theme
+description: Minimal is a theme for GitHub Pages.
+theme: jekyll-theme-minimal
 ---
 
 *haii*
