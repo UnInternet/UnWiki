@@ -1,1 +1,7 @@
-
+---
+title: Minimal theme
+logo: /assets/img/logo.png
+description: Minimal is a theme for GitHub Pages.
+show_downloads: false
+theme: jekyll-theme-midnight
+---
